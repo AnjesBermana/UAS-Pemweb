@@ -3,6 +3,12 @@
 
 Proyek ini merupakan implementasi tugas akhir untuk UAS Pemrograman Web 2024/2025
 
+```html
+  Nama  : Anjes Bermana
+  NIM   : 122140190
+  Kelas : RB
+```
+
 ## Daftar Isi
 - [Bagian 1: Client-side Programming](#bagian-1-client-side-programming)
 - [Bagian 2: Server-side Programming](#bagian-2-server-side-programming)
