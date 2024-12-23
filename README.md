@@ -1,5 +1,5 @@
 # UAS Pemrograman Web
-## WEB PENDAFTARAN SEKOLAH UNTUK SISWA SMA
+## WEB PENDAFTARAN MURID SMA
 
 Proyek ini merupakan implementasi tugas akhir untuk UAS Pemrograman Web 2024/2025
 
@@ -521,7 +521,7 @@ if (!isset($_SESSION['username'])) {
 ```
 
 ### 4.2 Pengelolaan State dengan Cookie dan Browser Storage
--Cookie digunakan untuk menyimpan tema yang digunakan oleh user sehingga ketika direfresh ataupun logout dari website maka tema yang sebelumnya dipakai akan tetap sama
+- Cookie digunakan untuk menyimpan tema yang digunakan oleh user sehingga ketika direfresh ataupun logout dari website maka tema yang sebelumnya dipakai akan tetap sama
 
 ```javascript
 // Fungsi untuk menetapkan cookie
@@ -559,7 +559,7 @@ window.onload = function() {
     document.body.setAttribute('data-theme', theme);
 }
 ```
--Local Storage digunakan ketika user ingin menambahkan data dan jika dalam perjalanan menambahkan data ia refresh atau logout, data yang sebelumnya masih ada ketika ia kembali ingin menambahkan data dan akan terhapus ketika user menekan submit.
+- Local Storage digunakan ketika user ingin menambahkan data dan jika dalam perjalanan menambahkan data ia refresh atau logout, data yang sebelumnya masih ada ketika ia kembali ingin menambahkan data dan akan terhapus ketika user menekan submit.
 
 ```javascript
 // Local Storage
