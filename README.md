@@ -10,22 +10,22 @@ Proyek ini merupakan implementasi tugas akhir untuk UAS Pemrograman Web 2024/202
 ```
 
 Website ini dapat diakses melalui link berikut:
-
+```html
 - **Website**  : [http://anjes-uas.wuaze.com/](http://anjes-uas.wuaze.com/)  
 - **Username** : `admin`  
 - **Password** : `admin`  
-
+```
 ---
 ### Catatan Penting
 
 1. **Penggunaan Website**:  
-   Website ini hanya untuk keperluan Ujian Akhir Semester.  
-   Mohon tidak memasukkan data sensitif atau data yang tidak relevan.
+   - Website ini hanya untuk keperluan Ujian Akhir Semester.  
+   - Mohon tidak memasukkan data sensitif atau data yang tidak relevan.
 
-2. **Manipulasi Data**:  
-   Harap tidak memanipulasi data atau mencoba merusak fungsi website.  
+2. **Manipulasi Data**:
+   - Harap tidak memanipulasi data atau mencoba merusak fungsi website.  
 
-3. **Keamanan**:  
+4. **Keamanan**:  
    - Jangan bagikan username dan password kepada pihak lain tanpa izin.  
    - Gunakan dengan bijak sesuai panduan yang telah diberikan.
 
