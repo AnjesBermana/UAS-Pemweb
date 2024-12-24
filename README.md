@@ -9,6 +9,28 @@ Proyek ini merupakan implementasi tugas akhir untuk UAS Pemrograman Web 2024/202
   Kelas : RB
 ```
 
+Website ini dapat diakses melalui link berikut:
+
+- **Website**  : [http://anjes-uas.wuaze.com/](http://anjes-uas.wuaze.com/)  
+- **Username** : `admin`  
+- **Password** : `admin`  
+
+---
+### Catatan Penting
+
+1. **Penggunaan Website**:  
+   Website ini hanya untuk keperluan Ujian Akhir Semester.  
+   Mohon tidak memasukkan data sensitif atau data yang tidak relevan.
+
+2. **Manipulasi Data**:  
+   Harap tidak memanipulasi data atau mencoba merusak fungsi website.  
+
+3. **Keamanan**:  
+   - Jangan bagikan username dan password kepada pihak lain tanpa izin.  
+   - Gunakan dengan bijak sesuai panduan yang telah diberikan.
+
+---
+
 ## Daftar Isi
 - [Bagian 1: Client-side Programming](#bagian-1-client-side-programming)
 - [Bagian 2: Server-side Programming](#bagian-2-server-side-programming)
