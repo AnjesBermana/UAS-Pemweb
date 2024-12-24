@@ -11,9 +11,11 @@ Proyek ini merupakan implementasi tugas akhir untuk UAS Pemrograman Web 2024/202
 
 Website ini dapat diakses melalui link berikut:
 
-- **Website**  : [http://anjes-uas.wuaze.com/](http://anjes-uas.wuaze.com/)  
-- **Username** : admin 
-- **Password** : admin
+| **Detail**   | **Informasi**                                   |
+|--------------|-------------------------------------------------|
+| **Website**  | [http://anjes-uas.wuaze.com/](http://anjes-uas.wuaze.com/) |
+| **Username** | `admin`                                         |
+| **Password** | `admin`                                         |
 
 ---
 ### Catatan Penting
