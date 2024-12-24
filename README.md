@@ -1,5 +1,5 @@
 # UAS Pemrograman Web
-## WEB PENDAFTARAN MURID SMA
+## Website Pendaftaran Sekolah Menengah Atas
 
 Proyek ini merupakan implementasi tugas akhir untuk UAS Pemrograman Web 2024/2025
 
@@ -678,11 +678,11 @@ form.addEventListener('submit', clearLocalStorage);
 - Antarmuka yang mudah digunakan
 
 ### 3. Keamanan Aplikasi Web
-- HTTPS untuk keamanan transfer data
-- Validasi input pada front-end dan back-end
-- Prepared statements untuk query SQL
+- Validasi input pada sisi antarmuka (front-end) dan sisi server (back-end)
 
 ### 4. Konfigurasi Server
+- Menaruh database dengan ketentuan yang telah diterapkan penyedia hosting 
+
 ```php
 $servername = "sql305.infinityfree.com";
 $username = "[Username ditetapkan dari websitenya]";
