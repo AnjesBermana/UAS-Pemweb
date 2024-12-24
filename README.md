@@ -13,7 +13,7 @@ Website ini dapat diakses melalui link berikut:
 
 | **Detail**   | **Informasi**                                   |
 |--------------|-------------------------------------------------|
-| **Website**  | [http://anjes-uas.wuaze.com/](http://anjes-uas.wuaze.com/) |
+| **Website**  | [http://anjes-uas.wuaze.com/](https://anjes-uas.wuaze.com/) |
 | **Username** | `admin`                                         |
 | **Password** | `admin`                                         |
 
@@ -679,6 +679,8 @@ form.addEventListener('submit', clearLocalStorage);
 
 ### 3. Keamanan Aplikasi Web
 - Validasi input pada sisi antarmuka (front-end) dan sisi server (back-end)
+- Direct HTTP ke HTTPS menggunakan SSL Certificate yang disediakan gratis
+- Catatan untuk HTTPS harus diperbaharui setiap 3bulan sekali
 
 ### 4. Konfigurasi Server
 - Menaruh database dengan ketentuan yang telah diterapkan penyedia hosting 
