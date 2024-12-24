@@ -13,7 +13,7 @@ Website ini dapat diakses melalui link berikut:
 
 | **Detail**   | **Informasi**                                   |
 |--------------|-------------------------------------------------|
-| **Website**  | [http://anjes-uas.wuaze.com/](https://anjes-uas.wuaze.com/) |
+| **Website**  | [https://anjes-uas.wuaze.com/](https://anjes-uas.wuaze.com/) |
 | **Username** | `admin`                                         |
 | **Password** | `admin`                                         |
 
