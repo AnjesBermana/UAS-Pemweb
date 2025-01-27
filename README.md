@@ -1,5 +1,4 @@
 # UAS Pemrograman Web
-## Website Pendaftaran Sekolah Menengah Atas
 
 Proyek ini merupakan implementasi tugas akhir untuk UAS Pemrograman Web 2024/2025
 
